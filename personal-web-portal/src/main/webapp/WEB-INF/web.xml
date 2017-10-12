@@ -3,8 +3,7 @@
 		 http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
 	version="3.1">
 	<display-name>Archetype Created Web Application</display-name>
-	<max-file-size>82914560</max-file-size>
-	<max-request-size>82914560</max-request-size>
+	
 
 	<servlet>
 		<servlet-name>pwp</servlet-name>
